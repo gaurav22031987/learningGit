@@ -1,1 +1,1 @@
-test branch A.1->change in master -> changes in feature for git squash
+test branch A.1->change in master -> changes in feature for git squash changes1
