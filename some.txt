@@ -1,1 +1,6 @@
 test branch A.1->change in master -> changes in feature for git squash changes1,Changes2,changes3(master)
+
+local changes with stash test with m g
+Change1.
+Change2.
+Change3.
